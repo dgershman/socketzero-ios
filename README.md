@@ -2,6 +2,10 @@
 
 A minimal iOS app demonstrating a local HTTP/HTTPS proxy for SocketZero.
 
+**Parent Project:** [SocketZero](https://github.com/radiusmethod/socketzero) - Zero trust connection utility
+
+**Status:** 🚧 Proof of Concept - Not production ready
+
 ## What It Does
 
 - Runs a local HTTP proxy on `localhost:8080`
